@@ -107,7 +107,7 @@ body{
     background-size: cover;
 }
 .app:nth-child(1){
-    background-image: url(./apple-button.jpg);
+    background-image: url(./apple-button.png);
 }
 .app:nth-child(2){
     background-image: url(./googleplay-button.png);
